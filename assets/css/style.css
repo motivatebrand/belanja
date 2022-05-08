@@ -28,6 +28,9 @@ body{
 	align-items: center;
 	text-align: center;
 }
+.content .container .row .col .logo img{
+	border: 1px solid #ffd700;
+}
 .content .container .row .col .title h4{
 	font-family: "Poppins-SemiBold";
 }
@@ -50,6 +53,7 @@ body{
 }
 .content .container .card{
 	border: none;
+	border-radius: 15px;
 }
 .content .container .card .card-body{
 	display: flex;
