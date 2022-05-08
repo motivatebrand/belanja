@@ -28,6 +28,9 @@ body{
 	align-items: center;
 	text-align: center;
 }
+.content .container .row .col .title h4{
+	font-family: "Poppins-SemiBold";
+}
 .content .container .socialmedia ul{
 	display: flex;
 	flex-direction: row;
